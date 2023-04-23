@@ -1,8 +1,8 @@
 # gitex
 
-0. create project
+### 0. create project
 
-1. git init
+### 1. git init
 
 2. git config user.email "<email address>"
   git config user.name "<user name>"
